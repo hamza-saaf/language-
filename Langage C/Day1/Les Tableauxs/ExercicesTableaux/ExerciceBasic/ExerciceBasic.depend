@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727511826 source:c:\users\youcode\desktop\c_codeblock\day2\les tableaux\exercicestableaux\exercicebasic\main.c
+	<stdio.h>
+	<stdlib.h>
+

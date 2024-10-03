@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727791482 source:c:\users\youcode\desktop\c_codeblock\day2\mini_projet_day2\main.c
+	<stdio.h>
+	<stdlib.h>
+
